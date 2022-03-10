@@ -6,7 +6,7 @@
     /* font-family: 'Fredoka', sans-serif; */
     /* font-family: 'Mukta', sans-serif; */
     /* font-family: 'Saira', sans-serif; */
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 1.25rem;
 }
 body {
@@ -36,6 +36,7 @@ body {
 }
 label {
     padding: 0.5rem;
+    font-weight: bold;
 }
 input {
     width: 100%;
@@ -59,3 +60,38 @@ input:focus {
 /* i {
     color: rgb(78, 149, 158);
 } */
+
+/* @media (max-width: 597px) { */
+    @media (max-width: 768px) {
+    * {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 597px) {
+    .wrapper {
+        flex-direction: column;
+        align-items: center;
+        width: 70vw;
+        padding: 2rem;
+    }
+    .cContainer, .fContainer{
+        width: 70%;
+        text-align: center;
+    }
+    label {
+        width: 100%;
+    }
+    input {
+        /* margin-top: 0.5rem; */
+        margin-top: 0.25rem;
+        height: 2.5rem;
+    }
+    .convertIcon {
+        /* padding: 0.5rem; */
+        padding: 1rem;
+    }
+    i {
+       transform: rotate(90deg);
+    }
+}

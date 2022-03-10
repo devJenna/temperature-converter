@@ -1,0 +1,94 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "0f6a2573a7b6df911ed199bb63717e27",
+      "css": "github-circled",
+      "code": 61595,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "1145676a91138011729fa2909997af66",
+      "css": "linkedin-squared",
+      "code": 62220,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ccc2329632396dc096bb638d4b46fb98",
+      "css": "mail-alt",
+      "code": 61664,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "381da2c2f7fd51f8de877c044d7f439d",
+      "css": "picture",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "3def559c3c39b8500882e02892b7daa8",
+      "css": "picture-1",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "1n2jlgp5brxxzpvvrly6jbfutnk2fpra",
+      "css": "camera",
+      "code": 59395,
+      "src": "modernpics"
+    },
+    {
+      "uid": "a1be363d4de9be39857893d4134f6215",
+      "css": "picture-2",
+      "code": 59396,
+      "src": "elusive"
+    },
+    {
+      "uid": "dc3f1d5b1d006f7f7b3b6295eccab9da",
+      "css": "camera-1",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "9d3d9d6ce1ec63eaa26281e6162853c9",
+      "css": "camera-alt",
+      "code": 59398,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6020aff067fc3c119cdd75daa5249220",
+      "css": "exchange",
+      "code": 61676,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "5386cf333c67332c278b798c9fded7e5",
+      "css": "loop-alt",
+      "code": 59399,
+      "src": "iconic"
+    },
+    {
+      "uid": "e07df3e5b9ae72836b7804f38f0644a9",
+      "css": "exchange-1",
+      "code": 59400,
+      "src": "iconic"
+    }
+  ]
+}

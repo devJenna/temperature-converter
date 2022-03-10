@@ -33,6 +33,7 @@ body {
 .cContainer, .fContainer {
     /* width: 120px; */
     width: 35%;
+    text-align: center;
 }
 label {
     padding: 0.5rem;
@@ -48,6 +49,7 @@ input {
     outline: none;
     padding: 0.625rem;
     margin-top: 1rem;
+    text-align: center;
 }
 input:focus {
     /* border-color: rgb(78, 149, 158); */
@@ -77,7 +79,6 @@ input:focus {
     }
     .cContainer, .fContainer{
         width: 70%;
-        text-align: center;
     }
     label {
         width: 100%;

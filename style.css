@@ -41,3 +41,7 @@ input:focus {
     /* border-color: rgb(78, 149, 158); */
     border: 1px solid rgb(78, 149, 158);
 }
+.convertIcon {
+    display: flex;
+    align-items: center;
+}
